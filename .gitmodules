@@ -1,0 +1,6 @@
+[submodule "Web_Paint_Front"]
+	path = Web_Paint_Front
+	url = https://github.com/husseinkhaled733/Web_Paint_Front.git
+[submodule "Web_Paint_Back"]
+	path = Web_Paint_Back
+	url = https://github.com/husseinkhaled733/Web_Paint_Back.git
